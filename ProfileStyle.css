@@ -40,7 +40,9 @@ body{
     /*width: 20%;*/
     border: 5px solid red;
    /* flex-wrap: wrap;*/
-  
+   height: auto;
+   resize: both;
+   overflow: auto;
   
 
     
