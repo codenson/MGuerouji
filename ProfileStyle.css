@@ -389,6 +389,19 @@ body{
 #highlitsDice{
     top: 1000px;
     left: 170px;
- 
-
+}
+/* Media query for mobile devices */
+@media (max-width: 800px) {
+    nav ul li {
+        float: none;
+        text-align: center;
+    }
+    
+    .main {
+        flex-direction: column;
+    }
+    
+    .content, .sidebar {
+        padding: 10px;
+    }
 }
