@@ -8,6 +8,8 @@ body{
     height: 50vh; 
    height: 100vh;
   /* margin: 0;*/
+
+  flex-wrap: wrap;
    
 }
 .totContainer{
@@ -226,7 +228,7 @@ body{
     width: 1200px;
     height: 50px;
     border: 5px solid red;
-    top: 800px;
+    top: 1200px;
 
 
 
@@ -348,6 +350,21 @@ body{
 
 }
 #diceMetho{
-    top: 910px;
+    top: 915px;
     left: 50px;
+}
+#descDice{
+    top: 940px;
+    left: 50px;
+
+}
+#highDice{
+    top: 970px;
+    left: 50px;
+}
+#highlitsDice{
+    top: 1000px;
+    left: 170px;
+ 
+
 }
