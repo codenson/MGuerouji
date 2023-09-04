@@ -28,7 +28,7 @@ body{
     /*flex-wrap: wrap;*/ 
       width: 100%;
 
-   /*height: auto;*/
+   height: auto;
    resize: both;
    overflow: auto;
 
