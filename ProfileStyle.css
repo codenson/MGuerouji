@@ -1,4 +1,9 @@
-
+@media screen and (min-width:800px) {
+    body{
+    background-color: yellow;
+    }
+    
+}
 body{
     background-color:black;
     margin: 0;
@@ -20,7 +25,7 @@ body{
     /*flex-wrap: wrap;*/ 
       width: 100%;
 
-   height: auto;
+   /*height: auto;*/
    resize: both;
    overflow: auto;
 
@@ -51,11 +56,16 @@ body{
     /*align-items: center;*/
     position: relative;
     
-    top: -35px ;
+  /*  top: -35px ;*/
     color: white;
 }
+#infoCS{
+    top: -35px ;
+
+
+}
 #exp1{
-    position: relative;
+  /*  position: relative;*/
 
     top: -60px ;
     font-size: 8;
