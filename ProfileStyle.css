@@ -33,6 +33,7 @@ body{
     height: 360px;
     /*width: 20%;*/
     border: 5px solid red;
+    flex-wrap: wrap;
   
 
     
