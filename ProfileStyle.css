@@ -19,7 +19,10 @@ body{
     align-items: center;
     /*flex-wrap: wrap;*/ 
       width: 100%;
+
    height: auto;
+   resize: both;
+   overflow: auto;
 
 
 }
