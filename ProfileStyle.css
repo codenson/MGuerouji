@@ -15,6 +15,7 @@ body{
   /* margin: 0;*/
 
   /*flex-wrap: wrap;*/
+  height: auto;
   resize: both;
    overflow: auto;
 
