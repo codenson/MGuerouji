@@ -28,7 +28,7 @@ body{
 }
 .topBody{
 
-   margin: auto;
+   /*margin: auto;*/
    
     display: flex;
     flex-direction: column;
@@ -40,9 +40,8 @@ body{
     /*width: 20%;*/
     border: 5px solid red;
    /* flex-wrap: wrap;*/
-   height: auto;
-   resize: both;
-   overflow: auto;
+   /*height: auto;*/
+  
   
 
     
