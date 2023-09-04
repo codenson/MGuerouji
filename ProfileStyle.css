@@ -28,7 +28,8 @@ body{
 }
 .topBody{
 
-    margin: auto;
+   margin: auto;
+   
     display: flex;
     flex-direction: column;
    /* /*justify-content: center;*/
@@ -39,8 +40,7 @@ body{
     /*width: 20%;*/
     border: 5px solid red;
    /* flex-wrap: wrap;*/
-   resize: both;
-   overflow: auto;
+  
   
 
     
@@ -48,15 +48,15 @@ body{
 }
 .info{
     /*align-items: center;*/
-    position: absolute;
-
-    top: 310px ;
+    position: relative;
+    
+    top: -35px ;
     color: white;
 }
 #exp1{
-    position: absolute;
+    position: relative;
 
-    top: 330px ;
+    top: -60px ;
     font-size: 8;
     /*font-family: cursive;*/
     font-style: italic;
