@@ -16,8 +16,8 @@ body{
 
   /*flex-wrap: wrap;*/
   height: auto;
-  resize: both;
-   overflow: auto;
+  /*resize: both;
+   overflow: auto;*/
 
 }
 .totContainer{
@@ -28,9 +28,9 @@ body{
     /*flex-wrap: wrap;*/ 
       width: 100%;
 
-   height: auto;
+  /* height: auto;
    resize: both;
-   overflow: auto;
+   overflow: auto;*/
 
 
 }
