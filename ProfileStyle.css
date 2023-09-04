@@ -1,0 +1,353 @@
+
+body{
+    background-color:black;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; 
+   height: 100vh;
+  /* margin: 0;*/
+   
+}
+.totContainer{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+.topBody{
+
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+   /* /*justify-content: center;*/
+    align-items: center;
+   
+    width: 300px;
+    height: 360px;
+    /*width: 20%;*/
+    border: 5px solid red;
+
+    
+  
+}
+.info{
+    /*align-items: center;*/
+    position: absolute;
+
+    top: 310px ;
+    color: white;
+}
+#exp1{
+    position: absolute;
+
+    top: 330px ;
+    font-size: 8;
+    /*font-family: cursive;*/
+    font-style: italic;
+    color: white;
+
+}
+
+
+
+
+.introBody{
+    margin: auto;
+    position: relative;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+
+    width: 1200px;
+    height: 150px;
+    /*border: 3px solid red;*/
+
+   
+    
+    top: 10px;
+    left: 20px;
+    padding: 20px;
+
+
+}
+
+
+
+
+.Profile_pic{
+    position: relative;
+    display: block;
+    size: 50px;
+    border-radius: 50px; /*makes the pic rounder*/
+    top: -50px;
+    left: 0px;
+    width: 170px;
+    margin: auto;
+}
+.ProfileName{
+    /*position: absolute;*/
+    position: relative;
+   
+    top: -0px;
+    left: 0px;
+    font: 1000;
+    /*padding: 20px;*/
+   /* font-size:larger;*/
+   color: antiquewhite;
+   margin-bottom: 50px;
+
+}
+.introLabel{
+
+    position: absolute;
+    top: 00px;
+    left: 20px;
+    color: white;
+    margin-bottom: 20px;
+}
+.Intro{
+
+    position: absolute;
+    font-size: 15px;
+    top: 40px;
+    left: 20px;
+    color: antiquewhite;
+    
+}
+.skillsLabel{
+
+    position: absolute;
+    top : 105px; 
+    left: 20px;
+    color: white;
+}
+.subText{
+    position: absolute;
+    color: aliceblue;
+    top: 150px;
+    left:20px;
+    font: 10;
+    font-size: 15px;
+}
+.insideText{
+    position: absolute;
+    color: aliceblue;
+    top: 150px;
+    left:265px;
+    font: 10;
+    font-size: 15px;
+
+
+}
+#dev{
+    top :180px;
+    left:20px;
+
+
+}
+#frame{
+    top :210px;
+    left:20px;
+
+
+
+}
+#frm{
+
+    top: 210px;
+    left: 265px;
+}
+#tools{
+    top :180px; 
+    left: 265px;
+}
+#database{
+    top:240px;
+    left:20px;
+}
+#dtb{
+
+    top: 240px; 
+    left: 265px;
+}
+#webh3{
+    top:270px;
+    left:20px;
+
+}
+#htm{
+    top:270px;
+    left:265px;
+
+}
+#sftools{
+    top:300px;
+    left:20px;
+
+
+}
+#jiat{
+    top:300px;
+    left:265px;
+
+}
+#anSkills{
+    top: 330px;
+}
+#prslv{
+    top: 330px;
+    left: 265px;
+}
+#sft{
+
+    top: 360px;
+    left: 20px;
+}
+#cmco{
+    top: 360px;
+    left: 265px;
+
+}
+.cpyright{
+  
+    position: relative;
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+   
+    width: 1200px;
+    height: 50px;
+    border: 5px solid red;
+    top: 800px;
+
+
+
+}
+.cpr{
+
+    font: 100;
+    font-size: 12px;
+    font-style: italic;
+    color: aliceblue;
+    top:2000px;
+}
+.Projects {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+       align-items:baseline;
+        width: 1200px;
+        height: 200px;
+        /* Let the height adjust based on content */
+        /*height: auto;*/
+        border: 5px solid greenyellow;
+        /* Remove the top positioning */
+         top: 200px; 
+        
+         background-color: gray;
+         padding: 20px;
+      }
+
+#proj{
+    
+    top : 385px; 
+    left: 20px;
+    color: white;
+}
+
+.subText2{
+    
+    font: 10;
+    font-size: 15px;
+    color: aliceblue;
+
+}
+#lingo{
+    position: relative;
+    top : 410px; 
+    left: -475px;
+
+}
+.insideText2{
+    position: absolute;
+    color: aliceblue;
+    font: 10;
+    font-size: 15px;
+
+
+}
+#tech{
+    top: 460px;
+    left: 50px;
+}
+#methodLing{
+   
+    top: 490px;
+    left: 50px;
+
+}
+#descLing{
+    top: 520px;
+    left: 50px;
+
+}
+#highLing{
+    top: 550px;
+    left: 50px;
+}
+#highlitsLang{
+    top: 570px;
+    left: 170px;
+}
+#dart{
+    position: relative;
+    top : 590px; 
+    left: -490px;
+}
+#dartTech{
+    top: 685px;
+    left: 50px;
+}
+
+#dartMetho{
+    top: 710px;
+    left: 50px;
+
+}
+#descDart{
+    top: 735px;
+    left: 50px;
+
+}
+#highDart{
+    top: 760px;
+    left: 50px;
+
+}
+#highlitsDart{
+    top: 780px;
+    left: 170px;
+}
+#dice{
+    position: relative;
+    top : 750px; 
+    left: -450px;
+
+}
+#diceTech{
+    top: 890px;
+    left: 50px;
+
+}
+#diceMetho{
+    top: 910px;
+    left: 50px;
+}
