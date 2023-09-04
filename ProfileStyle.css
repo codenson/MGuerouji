@@ -1,9 +1,9 @@
-@media screen and (min-width:800px) {
-    body{
-    background-color: yellow;
+/* For screens up to 600px wide */
+@media (max-width: 600px) {
+    .container {
+      width: 100%;
     }
-    
-}
+  }
 body{
     background-color:black;
     margin: 0;
