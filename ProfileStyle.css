@@ -21,16 +21,19 @@ body{
 
 }
 .totContainer{
-    margin: auto;
+  /*  margin: auto;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: center;*/
+   
     /*flex-wrap: wrap;*/ 
-      width: 100%;
+     /* width: 100%;*/
 
   /* height: auto;
    resize: both;
    overflow: auto;*/
+      max-width: 800px;
+  margin: 0 auto;
 
 
 }
